@@ -1,0 +1,33 @@
+﻿body {
+    background: #808080;
+    margin: 5em 25em 0 10em;
+}
+
+#wrapper {
+    padding:0 0 0 0;
+    width: 1200px;
+    background: #fff;
+    box-shadow: 0 10px 10px #b4b4b4;
+    color: #555;
+}
+
+.topnav {
+    background: #000000;
+    text-align: center;
+}
+
+    .topnav a {
+        text-decoration: none;
+        color: #ff0000;
+        width: 200px;
+        font-display: block;
+        padding: 15px;
+        font-size: 25px;
+        font-family: Helvetiva;
+        transition: 0.4s;
+    }
+
+        .topnav a:hover {
+            background: #0094ff;
+            transition: 0.4s;
+        }
